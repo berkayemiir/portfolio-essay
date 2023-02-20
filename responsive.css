@@ -1,0 +1,132 @@
+@media screen and (max-width:993px) {
+    .navlar .fa-brands{
+        width: 100% !important;
+        display: flex;
+        justify-content: center;
+    }
+    .navlar .navbar-brand{
+        width: 100% !important;
+        display: flex;
+        justify-content: center;
+    }
+    .navlar .navbar-toggler{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+}
+@media screen and (max-width:785px){
+    .ileti .adres,.mesaj {
+        width: 100% !important;
+    }
+    textarea{
+        height: 25vw;
+    }
+    .tema{
+        height: 900px;
+    }
+}
+@media screen and (max-width:768px){
+    .container .adım{
+        width: 100% !important;
+        text-align: center;
+    }
+}
+@media screen and (max-width:768px){
+    .content .ad {
+        width: 100% !important;
+        
+        
+    }
+}
+
+@media screen and (max-width:768px){
+    .ben {
+        flex-direction: column;
+        
+    }
+}
+@media screen and (max-width:768px){
+    .web,.gel {
+        width: 100% !important;
+        
+        
+        
+        
+    }
+}
+@media screen and (max-width:768px){
+    .uyg,.gel {
+        width: 100% !important;
+        
+        
+        
+    }
+}
+@media screen and (max-width:768px){
+    .uyg{
+        padding-top: 40px;
+        text-align: center;
+        
+        
+        
+    }
+}
+@media screen and (max-width:768px){
+    .web{
+        
+        text-align: center;
+        
+        
+        
+    }
+}
+@media screen and (max-width:760px){
+    .webo {
+        flex-direction: column;
+        
+        
+        
+    }
+}
+@media screen and (max-width:768px){
+    .berk {
+        margin: auto;
+        
+        margin-top: 30px;
+        
+    }
+}
+@media screen and (max-width:545px){
+    .arti h2 {
+        font-size: 40px;
+        
+    }
+}
+@media screen and (max-width:545px){
+    .kapsa h1 {
+        font-size: 40px;
+        
+    }
+}
+@media screen and (max-width:545px){
+    .arti p{
+        font-size: 15px;
+        
+    }
+}
+@media screen and (max-width:498px){
+    .arti p{
+        font-size: 10px;
+        
+        
+    }
+}
+@media screen and (max-width:498px){
+    .arti .yıl{
+        margin: 20px;
+        
+        
+    }
+}
+
